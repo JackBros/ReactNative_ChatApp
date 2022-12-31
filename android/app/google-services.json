@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855230380127",
+    "project_id": "reactapp-922b4",
+    "storage_bucket": "reactapp-922b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855230380127:android:45fa6cef20274de14883ea",
+        "android_client_info": {
+          "package_name": "com.codetalkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855230380127-6tcr2c6t3o53gvsd981uf6rkl9l8inil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYmrEA28cXZWgOSFcP2-4pahb-0g01oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855230380127-6tcr2c6t3o53gvsd981uf6rkl9l8inil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
